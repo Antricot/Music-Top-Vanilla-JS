@@ -1,0 +1,32 @@
+{
+  "songs": [
+    {
+      "artist": "Dua Lipa",
+      "name": "Levitating",
+      "votes": 13,
+      "album": "Album A",
+      "id": "dd52"
+    },
+    {
+      "artist": "The Weeknd",
+      "name": "Blinding Lights",
+      "votes": 2,
+      "album": "Album A",
+      "id": "2d00"
+    },
+    {
+      "artist": "Taylor Swift",
+      "name": "Willow",
+      "votes": 143,
+      "album": "Album B",
+      "id": "22d0"
+    },
+    {
+      "id": 1722511845976,
+      "artist": "dswds",
+      "name": "adasd",
+      "votes": 0,
+      "album": "asdasd"
+    }
+  ]
+}
